@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<grid align="left">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> <p>   </p> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> <p>   </p> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <p>   </p>
@@ -39,7 +39,7 @@
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="80" height="80"/> </a> <p>   </p>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> <p>   </p>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/> </a> <p>   </p> 
-</div>
+</grid>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreejithksgupta&show_icons=true&locale=en&layout=compact" alt="sreejithksgupta" /><p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejithksgupta&show_icons=true&locale=en" alt="sreejithksgupta" /></p>
